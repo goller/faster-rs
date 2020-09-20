@@ -1,5 +1,4 @@
 [submodule "libfaster-sys/FASTER"]
     path = libfaster-sys/FASTER
     url = https://github.com/goller/FASTER.git
-    branch = update-remote
-
+    branch = fix-c-ffi-namespace
